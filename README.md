@@ -8,6 +8,7 @@ lot of time filling them up or trying to make them look pretty.
 
 Assignment:
 1. Make a project directory and create the following files inside that directory:
+   • index.html
   -index.html
   -about.html
   -contact-me.html
